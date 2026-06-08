@@ -14,5 +14,5 @@ Programming language-python
 
 Done on - google collab
 
-Streamlit used for hosting rag model
-OpenAi api and ngrok api used 
+Gradio used for hosting rag model
+Gemini api and gemini was used to run the model 
